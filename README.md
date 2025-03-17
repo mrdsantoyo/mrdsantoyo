@@ -41,5 +41,5 @@ Actualmente, estoy enfocado en:
 - **Email**: [danielsa00@gmail.com](mailto:danielsa00@gmail.com)
 - **Portafolio**: [https://github.com/mrdsantoyo](https://github.com/mrdsantoyo)
 
-***¡Gracias por visitar! Si tienes alguna pregunta o deseas colaborar, no dudes en contactarme📨.***
----
+
+¡Gracias por visitar 🙂! Si tienes alguna pregunta o deseas colaborar, no dudes en contactarme📨.

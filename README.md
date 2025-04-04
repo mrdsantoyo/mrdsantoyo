@@ -8,10 +8,10 @@ Soy un Analista de Datos en crecimiento con experiencia en el desarrollo de dash
 
 Actualmente, estoy enfocado en:
 
-- Análisis de datos y visualización 📈
-- Machine Learning y estadística aplicada 🤖 *(En proceso...)*
-- Desarrollo de KPI y métricas de rendimiento 🎯
-- Herramientas como Python, SQL, Tableau y Power BI 🛠️
+- 📈 Análisis de datos y visualización 
+- 🤖 Machine Learning y estadística aplicada  *(En proceso...)*
+- 🎯 Desarrollo de KPI y métricas de rendimiento 
+- 🛠️ Herramientas como Python, MySQL y Power BI 
 
 ---
 
@@ -25,9 +25,9 @@ Actualmente, estoy enfocado en:
 - ***Visualización de datos***: Desarrollo de dashboards interactivos y gráficos claros para comunicar insights a stakeholders.
 
 ### 🛠️ Tecnologías y Herramientas Utilizadas
-- **Lenguajes de programación**: Python 🐍, SQL
+- **Lenguajes de programación**: Python 🐍, MySQL
 - **Librerías de Python**: Pandas, NumPy, Matplotlib, Scikit-learn
-- **Herramientas de visualización**: Tableau, Power BI
+- **Herramientas de visualización**: Power BI, Tableau
 - **Gestión de datos**: Excel, Google Sheets
 - **Control de versiones**: Git, GitHub
 
@@ -39,7 +39,7 @@ Actualmente, estoy enfocado en:
 ### 📬 Contacto
 - **LinkedIn**: [Daniel Santoyo](https://www.linkedin.com/in/daniel-santoyo00/)
 - **Email**: [danielsa00@gmail.com](mailto:danielsa00@gmail.com)
-- **Portafolio**: [https://github.com/mrdsantoyo](https://github.com/mrdsantoyo)
+- **Portafolio**: [@mrdsantoyo](https://github.com/mrdsantoyo)
 
 
 ¡Gracias por visitar 🙂! Si tienes alguna pregunta o deseas colaborar, no dudes en contactarme📨.

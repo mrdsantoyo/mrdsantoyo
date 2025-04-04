@@ -32,8 +32,8 @@ Actualmente, estoy enfocado en:
 - **Control de versiones**: Git, GitHub
 
 ### 🚀 Proyectos:
--**Dashboard de Inocuidad:** [https://github.com/mrdsantoyo/KPI-FoodSafety](https://github.com/mrdsantoyo/KPI-FoodSafety)
-
+- **Dashboard de Inocuidad:** [github.com/KPI-FoodSafety](https://github.com/mrdsantoyo/KPI-FoodSafety)          `🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%`     
+- **Monster-Lawyer:** (En desarrollo) [github.com/ADEWEB](https://github.com/mrdsantoyo/ADEWEB)                  `🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30%`           
 ---
 
 ### 📬 Contacto

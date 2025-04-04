@@ -39,7 +39,7 @@ Actualmente, estoy enfocado en:
 ### 📬 Contacto
 - **LinkedIn**: [Daniel Santoyo](https://www.linkedin.com/in/daniel-santoyo00/)
 - **Email**: [danielsa00@gmail.com](mailto:danielsa00@gmail.com)
-- **Portafolio**: [@mrdsantoyo](https://github.com/mrdsantoyo)
+- **Portafolio**: [@mrdsantoyo](https://github.com/mrdsantoyo?tab=repositories)
 
 
 ¡Gracias por visitar 🙂! Si tienes alguna pregunta o deseas colaborar, no dudes en contactarme📨.
